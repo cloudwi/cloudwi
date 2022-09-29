@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 깃허브를 꾸밀 줄 모른다 .... 라는 말을 듣고 말았다.
 
 <!--
 **cloudwi/cloudwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
